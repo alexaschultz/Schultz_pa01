@@ -1,0 +1,14 @@
+public class Main 
+{
+public static class HelloWorld
+{
+static void answer(){
+System.out.println("Hello, World!");
+}
+}
+public static class GoodbyeWorld
+{
+static void output(){
+System.out.printf("Goodbye, World!");
+} 
+}
